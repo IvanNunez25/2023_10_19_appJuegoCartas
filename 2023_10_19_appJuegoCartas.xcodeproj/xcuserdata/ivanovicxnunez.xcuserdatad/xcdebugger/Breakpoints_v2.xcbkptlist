@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3ED3028B-3BD3-4903-83B0-FAD3CABCA7BA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C9A0753-E83F-4871-9E05-97A859D8194D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "2023_10_19_appJuegoCartas/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "-touchCardButton:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1C9A0753-E83F-4871-9E05-97A859D8194D - b5669e9c6658a475"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController touchCardButton:]"
+                  moduleName = "2023_10_19_appJuegoCartas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivanovicxnunez/Documents/iOS/2023_10_19_appJuegoCartas/2023_10_19_appJuegoCartas/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "1C9A0753-E83F-4871-9E05-97A859D8194D - b5669e9c6658a475"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController touchCardButton:]"
+                  moduleName = "2023_10_19_appJuegoCartas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivanovicxnunez/Documents/iOS/2023_10_19_appJuegoCartas/2023_10_19_appJuegoCartas/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
