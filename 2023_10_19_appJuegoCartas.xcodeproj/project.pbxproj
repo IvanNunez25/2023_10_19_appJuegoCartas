@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E6560FE82AE5950700F9DEAC /* CardMatchingGame.m in Sources */ = {isa = PBXBuildFile; fileRef = E6560FE72AE5950700F9DEAC /* CardMatchingGame.m */; };
 		E6F8BA752AE18F97008CD1DC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E6F8BA742AE18F97008CD1DC /* AppDelegate.m */; };
 		E6F8BA782AE18F97008CD1DC /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E6F8BA772AE18F97008CD1DC /* SceneDelegate.m */; };
 		E6F8BA7B2AE18F97008CD1DC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E6F8BA7A2AE18F97008CD1DC /* ViewController.m */; };
@@ -21,6 +22,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E6560FE62AE5950700F9DEAC /* CardMatchingGame.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CardMatchingGame.h; sourceTree = "<group>"; };
+		E6560FE72AE5950700F9DEAC /* CardMatchingGame.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CardMatchingGame.m; sourceTree = "<group>"; };
 		E6F8BA702AE18F97008CD1DC /* 2023_10_19_appJuegoCartas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 2023_10_19_appJuegoCartas.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6F8BA732AE18F97008CD1DC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		E6F8BA742AE18F97008CD1DC /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -57,14 +60,16 @@
 		E6560FE22AE5905A00F9DEAC /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				E6F8BA8F2AE195B4008CD1DC /* Deck.h */,
-				E6F8BA902AE195B4008CD1DC /* Deck.m */,
-				E6F8BA982AE473FE008CD1DC /* PlayingCardDeck.h */,
-				E6F8BA992AE473FE008CD1DC /* PlayingCardDeck.m */,
-				E6F8BA952AE46F6F008CD1DC /* PlayingCard.h */,
-				E6F8BA962AE46F6F008CD1DC /* PlayingCard.m */,
 				E6F8BA8C2AE18FE7008CD1DC /* Card.h */,
 				E6F8BA8D2AE18FE7008CD1DC /* Card.m */,
+				E6560FE62AE5950700F9DEAC /* CardMatchingGame.h */,
+				E6560FE72AE5950700F9DEAC /* CardMatchingGame.m */,
+				E6F8BA8F2AE195B4008CD1DC /* Deck.h */,
+				E6F8BA902AE195B4008CD1DC /* Deck.m */,
+				E6F8BA952AE46F6F008CD1DC /* PlayingCard.h */,
+				E6F8BA962AE46F6F008CD1DC /* PlayingCard.m */,
+				E6F8BA982AE473FE008CD1DC /* PlayingCardDeck.h */,
+				E6F8BA992AE473FE008CD1DC /* PlayingCardDeck.m */,
 			);
 			name = Model;
 			path = 2023_10_19_appJuegoCartas/Model;
@@ -178,6 +183,7 @@
 				E6F8BA8E2AE18FE7008CD1DC /* Card.m in Sources */,
 				E6F8BA9A2AE473FE008CD1DC /* PlayingCardDeck.m in Sources */,
 				E6F8BA7B2AE18F97008CD1DC /* ViewController.m in Sources */,
+				E6560FE82AE5950700F9DEAC /* CardMatchingGame.m in Sources */,
 				E6F8BA972AE46F6F008CD1DC /* PlayingCard.m in Sources */,
 				E6F8BA752AE18F97008CD1DC /* AppDelegate.m in Sources */,
 				E6F8BA862AE18F98008CD1DC /* main.m in Sources */,

@@ -14,8 +14,8 @@
             filePath = "2023_10_19_appJuegoCartas/ViewController.m"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "43"
-            endingLineNumber = "43"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
             landmarkName = "-touchCardButton:"
             landmarkType = "7">
             <Locations>
@@ -48,6 +48,180 @@
                   startingLineNumber = "18"
                   endingLineNumber = "18"
                   offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF9B0207-B220-448F-98A4-341FA13F2C1E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "2023_10_19_appJuegoCartas/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "-touchCardButton:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AF9B0207-B220-448F-98A4-341FA13F2C1E - b5669e9c6658a2a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController touchCardButton:]"
+                  moduleName = "2023_10_19_appJuegoCartas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivanovicxnunez/Documents/iOS/2023_10_19_appJuegoCartas/2023_10_19_appJuegoCartas/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "AF9B0207-B220-448F-98A4-341FA13F2C1E - b5669e9c6658a2e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController touchCardButton:]"
+                  moduleName = "2023_10_19_appJuegoCartas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivanovicxnunez/Documents/iOS/2023_10_19_appJuegoCartas/2023_10_19_appJuegoCartas/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF990509-E1B3-4D4C-BB13-1202D5F24B96"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "2023_10_19_appJuegoCartas/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "-updateUI"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BF990509-E1B3-4D4C-BB13-1202D5F24B96 - c79ce006002f8499"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController updateUI]"
+                  moduleName = "2023_10_19_appJuegoCartas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivanovicxnunez/Documents/iOS/2023_10_19_appJuegoCartas/2023_10_19_appJuegoCartas/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "BF990509-E1B3-4D4C-BB13-1202D5F24B96 - c79ce006002f8499"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController updateUI]"
+                  moduleName = "2023_10_19_appJuegoCartas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivanovicxnunez/Documents/iOS/2023_10_19_appJuegoCartas/2023_10_19_appJuegoCartas/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "BF990509-E1B3-4D4C-BB13-1202D5F24B96 - c79ce006002f8b5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController updateUI]"
+                  moduleName = "2023_10_19_appJuegoCartas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivanovicxnunez/Documents/iOS/2023_10_19_appJuegoCartas/2023_10_19_appJuegoCartas/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "BF990509-E1B3-4D4C-BB13-1202D5F24B96 - c79ce006002f8b5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController updateUI]"
+                  moduleName = "2023_10_19_appJuegoCartas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivanovicxnunez/Documents/iOS/2023_10_19_appJuegoCartas/2023_10_19_appJuegoCartas/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8BA91F14-AFE6-4ED5-BD69-54136237C0E7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "2023_10_19_appJuegoCartas/Model/CardMatchingGame.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "-chooseCardAtIndex:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8BA91F14-AFE6-4ED5-BD69-54136237C0E7 - 5d9e0dfa1496b22f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CardMatchingGame chooseCardAtIndex:]"
+                  moduleName = "2023_10_19_appJuegoCartas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivanovicxnunez/Documents/iOS/2023_10_19_appJuegoCartas/2023_10_19_appJuegoCartas/Model/CardMatchingGame.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "8BA91F14-AFE6-4ED5-BD69-54136237C0E7 - 5d9e0dfa1496b2ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CardMatchingGame chooseCardAtIndex:]"
+                  moduleName = "2023_10_19_appJuegoCartas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivanovicxnunez/Documents/iOS/2023_10_19_appJuegoCartas/2023_10_19_appJuegoCartas/Model/CardMatchingGame.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "56">
                </Location>
             </Locations>
          </BreakpointContent>
