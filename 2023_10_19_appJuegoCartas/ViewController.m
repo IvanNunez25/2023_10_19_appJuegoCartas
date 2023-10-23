@@ -93,7 +93,7 @@
 
 - (UIImage *) backgroundImageForCard:(Card *) card {
     
-    return [UIImage imageNamed:card.isChosen ? @"Blank-card" : @"Back-card-itl_tree"];
+    return [UIImage imageNamed:card.isChosen ? @"Blank-card" : @"Back-card-itl"];
 }
 
 @end
